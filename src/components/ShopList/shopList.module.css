@@ -1,0 +1,17 @@
+/* shopList.module.css */
+.ShopList_wrapper {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  flex-wrap: wrap;
+  gap: 20px;
+  margin-top: 30px;
+}
+.ShopListik {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+.sort_filter_zone {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

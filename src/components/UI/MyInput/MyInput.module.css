@@ -1,0 +1,29 @@
+.my_input {
+  padding: 12px 15px;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  transition: border-color 0.3s ease, box-shadow 0.3s ease;
+  width: 100%;
+  font-size: 16px;
+  background: #fff;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.my_input:focus {
+  border-color: #007bff;
+  box-shadow: 0 0 8px rgba(0, 123, 255, 0.5);
+  outline: none;
+}
+
+.my_input::placeholder {
+  color: #aaa;
+  transition: color 0.3s ease;
+}
+
+.my_input:focus::placeholder {
+  color: transparent;
+}
+
+.my_input:hover {
+  border-color: #007bff;
+}

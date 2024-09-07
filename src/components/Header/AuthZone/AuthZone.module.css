@@ -1,0 +1,25 @@
+.Auth {
+  display: flex;
+  align-items: center;
+  margin-right: 40px;
+}
+
+.AuthButton {
+  margin-left: 10px;
+  padding: 5px 10px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.AuthButton:hover {
+  background-color: #0056b3;
+}
+.auth_text {
+  color: #007bff;
+  font-weight: bold;
+  font-size: large;
+}

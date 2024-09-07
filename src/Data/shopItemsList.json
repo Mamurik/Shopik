@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "XIAOMI Redmi  12",
+    "price": 1040,
+    "img": "/ShopItemsImg/redmiNote12.jpg",
+    "ram": 128,
+    "rom": 6,
+    "desc": "this is smartphone1"
+  },
+  {
+    "id": 2,
+    "title": "SAMSUNG S23",
+    "price": 2200,
+    "img": "/ShopItemsImg/GalaxyS23.jpg",
+    "ram": 128,
+    "rom": 4,
+    "desc": "this is smartphone2"
+  },
+  {
+    "id": 3,
+    "title": "IPHONE 14",
+    "price": 2200,
+    "img": "/ShopItemsImg/Iphone14.jpg",
+    "ram": 512,
+    "rom": 6,
+    "desc": "this is smartphone3"
+  },
+  {
+    "id": 4,
+    "title": "IPHONE 15",
+    "price": 3000,
+    "img": "/ShopItemsImg/Iphone15.jpg",
+    "ram": 512,
+    "rom": 6,
+    "desc": "this is smartphone4"
+  },
+  {
+    "id": 5,
+    "title": "Poco M6 Pro",
+    "price": 800,
+    "img": "/ShopItemsImg/Honor90Lite.jpg",
+    "ram": 512,
+    "rom": 8,
+    "desc": "this is smartphone5"
+  },
+  {
+    "id": 6,
+    "title": "Honor 90 Lite",
+    "price": 1100,
+    "img": "/ShopItemsImg/PocoM6Pro.jpg",
+    "ram": 256,
+    "rom": 8,
+    "desc": "this is smartphone6"
+  },
+  {
+    "id": 7,
+    "title": "SAMSUNG A15",
+    "price": 500,
+    "img": "/ShopItemsImg/GalaxyA15.jpg",
+    "ram": 64,
+    "rom": 4,
+    "desc": "this is smartphone7"
+  },
+  {
+    "id": 8,
+    "title": "XIAOMI Redmi  13",
+    "price": 1200,
+    "img": "/ShopItemsImg/redmiNote13.jpg",
+    "ram": 128,
+    "rom": 6,
+    "desc": "this is smartphone8"
+  }
+]
