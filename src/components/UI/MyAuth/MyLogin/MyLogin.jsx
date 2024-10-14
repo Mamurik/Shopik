@@ -4,6 +4,8 @@ const MyLogin = ({ AuthUser, updateUser, updatePassword, authInput }) => {
   return (
     <div className={classes.Login_Form}>
       <h1>Login</h1>
+      <p>users:admin2,admin3,admin4</p>
+      <p>password:123</p>
       <input
         className={classes.Login_input}
         onChange={(e) => updateUser(e.target.value)}
@@ -21,8 +23,8 @@ const MyLogin = ({ AuthUser, updateUser, updatePassword, authInput }) => {
       <button className={classes.Login_btn} onClick={AuthUser}>
         Login
       </button>
-      <p>You don't have an account yet?</p>
-      <button className={classes.Login_btn}>Registration</button>
+      {/* <p>You don't have an account yet?</p>
+      <button className={classes.Login_btn}>Registration</button> */}
     </div>
   );
 };

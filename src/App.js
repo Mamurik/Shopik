@@ -16,7 +16,7 @@ const App = () => {
           path="/phone/:id"
           element={<OpenedItem items={shopItemsList} />}
         />
-        <Route path="/*" element={<Navigate to="/error" replace />} />
+        <Route path="/*" element={<Navigate to="/main" replace />} />
       </Routes>
     </BrowserRouter>
   );
